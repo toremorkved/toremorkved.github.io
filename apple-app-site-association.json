@@ -1,0 +1,7 @@
+{
+    authsrv =     {
+        apps =         (
+            "N89WT44552.no.toremorkved.myssoapp",
+        );
+    };
+}
